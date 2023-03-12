@@ -13,6 +13,7 @@
 123456 -> no
 
 """
+
 n = input('Введите шестизначное число: ')
 sum_num_start = sum_num_end = 0
 i = 0
