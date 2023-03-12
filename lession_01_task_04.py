@@ -22,9 +22,9 @@
 revenue = int(input('Введите выручку фирмы: '))
 costs = int(input('Введите издержки фирмы:'))
 profit = revenue - costs
-if (profit < 0):
+if profit < 0:
     print(f"Финансовый результат - убыток. Его велична: {-profit}")
-elif (profit > 0):
+elif profit > 0:
     print(f"Финансовый результат - прибыль. Ее величина: {profit}")
     profitable = round(profit / revenue, 2)
     print(f"Рентабельность выручки = {profitable}")
