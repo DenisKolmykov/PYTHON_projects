@@ -1,0 +1,88 @@
+{
+    "orders": [
+        {
+            "buyer": "Ivanov I.I.",
+            "date": "24.09.2017",
+            "item": "принтер",
+            "price": "6700",
+            "quantity": "10"
+        },
+        {
+            "buyer": "Petrov P.P.",
+            "date": "11.01.2018",
+            "item": "scaner",
+            "price": "10000",
+            "quantity": "20"
+        },
+        {
+            "buyer": "Petrov P.P.",
+            "date": "11.01.2018",
+            "item": "scaner",
+            "price": "10000",
+            "quantity": "20"
+        },
+        {
+            "buyer": "Petrov P.P.",
+            "date": "11.01.2018",
+            "item": "scaner",
+            "price": "10000",
+            "quantity": "20"
+        },
+        {
+            "buyer": "Федорова С.Ш.",
+            "date": "03.04.2023",
+            "item": "mother_board",
+            "price": "10000",
+            "quantity": "7"
+        },
+        {
+            "buyer": "Сидоров С.С.",
+            "date": "23.12.2000",
+            "item": "wifi_router",
+            "price": "500",
+            "quantity": "7"
+        },
+        {
+            "buyer": "Федорова С.Ш.",
+            "date": "01.01.2022",
+            "item": "mouse",
+            "price": "1500",
+            "quantity": "8"
+        },
+        {
+            "buyer": "Сидоров С.С.",
+            "date": "23.12.2000",
+            "item": "mouse",
+            "price": "10000",
+            "quantity": "3"
+        },
+        {
+            "buyer": "Иванов И.И",
+            "date": "10.05.2005",
+            "item": "mother_board",
+            "price": "20000",
+            "quantity": "8"
+        },
+        {
+            "buyer": "Сидоров С.С.",
+            "date": "10.05.2005",
+            "item": "mother_board",
+            "price": "10000",
+            "quantity": "10"
+        },
+        {
+            "buyer": "Федорова С.Ш.",
+            "date": "23.12.2000",
+            "item": "keyboard",
+            "price": "500",
+            "quantity": "9"
+        },
+        {
+            "buyer": "Петров П.П.",
+            "date": "01.01.2022",
+            "item": "mother_board",
+            "price": "16000",
+            "quantity": "4"
+        }
+    ]
+}
