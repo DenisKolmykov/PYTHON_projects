@@ -38,7 +38,6 @@ class TrafficLight:
             print()
             print(f'{c}-й цикл работы завершен\n')
             c += 1
-        return
 
 
 count = 2
